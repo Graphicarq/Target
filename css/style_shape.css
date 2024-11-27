@@ -1,0 +1,405 @@
+@media screen and (min-width: 1450px) and (max-width: 1600px) {
+    #servicios .shape1 {
+        position: absolute;
+        right: 0;
+        left: 100px;
+        top: -600px;
+        opacity: 100%
+    }
+    
+    #servicios .shape2 {
+        position: absolute;
+        right: 1150px;
+        bottom: -150px;
+        opacity: 100%
+    }
+    
+    #ab_per2 .shape1 {
+    position: relative;
+    left: 1400px;
+    top: 1350px;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 100%;
+    }
+
+    #ab_per2 .shape2 {
+    position: absolute;
+    right: 1440px;
+    top: 850px;
+    z-index: -5;
+    overflow: hidden;
+    }
+
+    #servicios_per .shape1 {
+    position: absolute;
+    right: 0;
+    left: 120px;
+    top: -150px;
+    z-index: -1;
+    overflow: hidden;
+    }
+
+    #servicios_per .shape2 {
+    position: absolute;
+    right: 1110px;
+    bottom: -25px;
+    }
+    
+    #servicios_emp .shape1 {
+    position: absolute;
+    right: 0;
+    left: 120px;
+    top: -130px;
+    overflow: hidden;
+    }
+
+    #servicios_emp .shape2 {
+    position: absolute;
+    right: 1110px;
+    bottom: -195px;
+    }
+    
+    #empleo .info h3 {
+    font-size: 49px;
+    font-weight: 400;
+    color: #333;
+    line-height: 59px;
+    padding: 0 0;
+    margin: 0 0;
+    margin-left: -75px;
+    }
+
+    #empleo .info p {
+    width: 537px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 15px;
+    margin-left: -75px;
+    }
+
+    #empleo .info button {
+    height: 66px;
+    width: 300px;
+    font-weight: 700;
+    margin-top: 25px;
+    border-radius: 50px;
+    background-color: #F07C0B;
+    box-shadow: 1px 6px 8px rgba(0, 0, 0, 0.384);
+    border: none;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    place-items: center;
+    margin-left: -75px;
+    }
+}
+
+@media screen and (min-width: 1650px) and (max-width: 1900px) {
+    #servicios .shape1 {
+        position: absolute;
+        right: 0;
+        left: 150px;
+        top: -600px;
+        opacity: 100%
+    }
+    
+    #servicios .shape2 {
+        position: absolute;
+        right: 1190px;
+        bottom: -150px;
+        opacity: 100%
+    }
+    
+    #ab_per2 .shape1 {
+    position: relative;
+    left: 1500px;
+    top: 1350px;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 100%;
+    }
+
+    #ab_per2 .shape2 {
+    position: absolute;
+    right: 1500px;
+    top: 950px;
+    z-index: -5;
+    overflow: hidden;
+    }
+    
+    #servicios_per .shape1 {
+    position: absolute;
+    right: 0;
+    left: 200px;
+    top: -150px;
+    z-index: -1;
+    overflow: hidden;
+    }
+
+    #servicios_per .shape2 {
+    position: absolute;
+    right: 1180px;
+    bottom: -25px;
+    }
+    
+    #servicios_emp .shape1 {
+    position: absolute;
+    right: 0;
+    left: 200px;
+    top: -130px;
+    overflow: hidden;
+    }
+
+    #servicios_emp .shape2 {
+    position: absolute;
+    right: 1180px;
+    bottom: -195px;
+    }
+    
+    #empleo .info h3 {
+    font-size: 49px;
+    font-weight: 400;
+    color: #333;
+    line-height: 59px;
+    padding: 0 0;
+    margin: 0 0;
+    margin-left: -105px;
+    margin-right: 50px;
+    }
+
+    #empleo .info p {
+    width: 537px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 15px;
+    margin-left: -105px;
+    }
+
+    #empleo .info button {
+    height: 66px;
+    width: 300px;
+    font-weight: 700;
+    margin-top: 25px;
+    border-radius: 50px;
+    background-color: #F07C0B;
+    box-shadow: 1px 6px 8px rgba(0, 0, 0, 0.384);
+    border: none;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    place-items: center;
+    margin-left: -105px;
+    }
+}
+
+@media screen and (min-width: 1910px) and (max-width: 1920px) {
+    #servicios .shape1 {
+        position: absolute;
+        right: 0;
+        left: 300px;
+        top: -600px;
+        opacity: 100%
+    }
+    
+    #servicios .shape2 {
+        position: absolute;
+        right: 1300px;
+        bottom: -150px;
+        opacity: 100%
+    }
+    
+    #ab_per2 .shape1 {
+    position: relative;
+    left: 1780px;
+    top: 1500px;
+    z-index: -1;
+    overflow: hidden;
+    opacity: 100%;
+    }
+
+    #ab_per2 .shape2 {
+    position: absolute;
+    right: 1750px;
+    top: 950px;
+    z-index: -5;
+    overflow: hidden;
+    }
+
+    #servicios_per .shape1 {
+    position: absolute;
+    right: 0;
+    left: 300px;
+    top: -150px;
+    z-index: -1;
+    overflow: hidden;
+    }
+
+    #servicios_per .shape2 {
+    position: absolute;
+    right: 1300px;
+    bottom: -25px;
+    }
+
+    #servicios_emp .shape1 {
+    position: absolute;
+    right: 0;
+    left: 300px;
+    top: -130px;
+    overflow: hidden;
+    }
+
+    #servicios_emp .shape2 {
+    position: absolute;
+    right: 1300px;
+    bottom: -195px;
+    }
+
+    #empleo .info h3 {
+    font-size: 49px;
+    font-weight: 400;
+    color: #333;
+    line-height: 59px;
+    padding: 0 0;
+    margin: 0 0;
+    margin-left: -120px;
+    margin-right: 70px;
+    }
+
+    #empleo .info p {
+    width: 537px;
+    font-size: 16px;
+    line-height: 24px;
+    margin-top: 15px;
+    margin-left: -120px;
+    }
+
+    #empleo .info button {
+    height: 66px;
+    width: 300px;
+    font-weight: 700;
+    margin-top: 25px;
+    border-radius: 50px;
+    background-color: #F07C0B;
+    box-shadow: 1px 6px 8px rgba(0, 0, 0, 0.384);
+    border: none;
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    place-items: center;
+    margin-left: -120px;
+    }
+
+
+}
+
+@media screen and (min-width: 2880px) {
+    #servicios .shape1 {
+        position: absolute;
+        right: 0;
+        left: 750px; /* Ajusta según necesites */
+        top: -600px;
+        opacity: 100%;
+    }
+
+    #servicios .shape2 {
+        position: absolute;
+        right: 1800px; /* Ajusta según necesites */
+        bottom: -150px;
+        opacity: 100%;
+    }
+
+    #ab_per2 .shape1 {
+        position: relative;
+        left: 2700px; /* Ajusta según necesites */
+        top: 1600px;
+        z-index: -1;
+        overflow: hidden;
+        opacity: 100%;
+    }
+
+    #ab_per2 .shape2 {
+        position: absolute;
+        right: 2700px; /* Ajusta según necesites */
+        top: 1500px;
+        z-index: 0;
+        overflow: hidden;
+    }
+
+    #servicios_per .shape1 {
+        position: absolute;
+        right: 0;
+        left: 800px; /* Ajusta según necesites */
+        top: -200px;
+        z-index: -1;
+        overflow: hidden;
+    }
+
+    #servicios_per .shape2 {
+        position: absolute;
+        right: 1800px; /* Ajusta según necesites */
+        bottom: -30px;
+    }
+
+    #servicios_emp .shape1 {
+        position: absolute;
+        right: 0;
+        left: 800px; /* Ajusta según necesites */
+        top: -150px;
+        overflow: hidden;
+    }
+
+    #servicios_emp .shape2 {
+        position: absolute;
+        right: 1800px; /* Ajusta según necesites */
+        bottom: -190px;
+    }
+
+    #empleo .info h3 {
+        font-size: 55px; /* Aumenta el tamaño de la fuente para mayor visibilidad */
+        font-weight: 400;
+        color: #333;
+        line-height: 65px;
+        margin-left: -250px; /* Ajusta según necesites */
+    }
+
+    #empleo .info p {
+        width: 800px; /* Aumenta el ancho del texto */
+        font-size: 20px;
+        line-height: 30px;
+        margin-top: 20px;
+        margin-left: -250px; /* Ajusta según necesites */
+    }
+
+    #empleo .info button {
+        height: 80px;
+        width: 360px;
+        font-weight: 700;
+        margin-top: 30px;
+        border-radius: 50px;
+        background-color: #F07C0B;
+        box-shadow: 1px 8px 10px rgba(0, 0, 0, 0.4);
+        border: none;
+        color: white;
+        font-size: 28px; /* Aumenta el tamaño de la fuente */
+        cursor: pointer;
+        place-items: center;
+        margin-left: -250px; /* Ajusta según necesites */
+    }
+}
+
+@media screen and (min-width: 395px) and (max-width: 430px) {
+    #servicios_emp .shape3 {
+        top: -1350px;
+        left: 340px;
+        right: 0;
+        opacity: 100%;
+    }
+    
+    .shape_cont {
+        display: flex;
+        right: 0;
+        top: 9550px;
+    }
+    
+}
